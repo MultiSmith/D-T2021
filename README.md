@@ -5,7 +5,7 @@
   
 # Run tests
 1. Open terminal
-2. Type "pytest test_selenium_hometask.py"
+2. Type "pytest test_WebAPI_HT.py"
 
 # Report for tests
 1. Open terminal
